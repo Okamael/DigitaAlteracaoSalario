@@ -6,6 +6,6 @@ Python Versão >= 3.8.3
 FrameWork TIR totvs <a href="https://github.com/totvs/tir">TIR </a>
 Biblioteca Pandas 
 
-<P> A rotina é executada no modulo 07 (SIGAGPE) - Recursos Humanos </p>
+<P><i> A rotina é executada no modulo 07 (SIGAGPE) - Recursos Humanos</i> </p>
 
 
